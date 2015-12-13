@@ -1,2 +1,3 @@
-# NuomiTuan
+# 糯米团
 用糯米api重制的“iPhone团购信息客户端”
+
